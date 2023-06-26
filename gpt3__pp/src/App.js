@@ -7,6 +7,7 @@ import './App.css'
 import './index.css'
 
 function App() {
+  //testing
   return (
    <div className='App'>
      <div className='gradient__bg'>
@@ -20,6 +21,7 @@ function App() {
      <CTA/>
      <Blog/>
      <Footer/>
+     
    </div>
   )
 }
